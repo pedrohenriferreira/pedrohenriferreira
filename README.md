@@ -52,5 +52,6 @@
 
 ###
 
-🚀 Sempre buscando desafios e oportunidades para aprender mais!  
-Seja bem-vindo ao meu perfil e sinta-se à vontade para explorar meus projetos.  
+🚀 Sempre buscando desafios e oportunidades para aprender mais! 
+ 
+**Seja bem-vindo ao meu perfil e sinta-se à vontade para explorar meus projetos.** 
