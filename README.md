@@ -7,7 +7,7 @@
 ---
 
 ## 🔥 Sobre mim  
-🖥️ Sou estudante de **Sistemas de Informação** no **Mackenzie**, atualmente no 4º semestre. Busco sempre aprender novas tecnologias e desenvolver projetos práticos para consolidar meu conhecimento.  
+🖥️ Sou estudante de **Sistemas de Informação** na **Universidade Presbiteriana Mackenzie**, atualmente no 4º semestre. Busco sempre aprender novas tecnologias e desenvolver projetos práticos para consolidar meu conhecimento.  
 
 💡 Meu objetivo é me tornar uma referência no mercado de tecnologia e contribuir para soluções inovadoras.  
 
@@ -47,6 +47,8 @@
 ---
 
 ## 📬 Como me encontrar?  
+📫 **Email:** asp.pedroferreira@gmail.com  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenriferreira/)  
 
 ---
