@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pedrohenriferreira/pedrohenriferreira/main/banner.webp" alt="Banner de Programação" width="100%">
-</p>
-
 <h1 align="center">👋 Olá, eu sou Pedro Henrique Ferreira!</h1>
 
 <p align="center">
@@ -11,7 +7,7 @@
 ---
 
 ## 🔥 Sobre mim  
-🖥️ Sou estudante de **Sistemas de Informação** na **Universidade Presbiteriana Mackenzie**, atualmente no 4º semestre. Busco sempre aprender novas tecnologias e desenvolver projetos práticos para consolidar meu conhecimento.  
+🖥️ Sou estudante de **Sistemas de Informação** no **Mackenzie**, atualmente no 4º semestre. Busco sempre aprender novas tecnologias e desenvolver projetos práticos para consolidar meu conhecimento.  
 
 💡 Meu objetivo é me tornar uma referência no mercado de tecnologia e contribuir para soluções inovadoras.  
 
@@ -25,20 +21,18 @@
 💻 Atualmente estudando e utilizando:  
 
 ### 🖥️ Linguagens  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="30" height="30"/>  
 
 ### 🛠️ Ferramentas  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="30" height="30"/>  
+
 
 ### 🗄️ Banco de Dados  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="30" height="30"/>  
+ 
 
 ### ⚙️ Frameworks  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="30" height="30"/>  
 
 📌 Sempre explorando novas tecnologias para expandir meu conhecimento!  
 
