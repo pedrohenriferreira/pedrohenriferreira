@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pedrohenriferreira/pedrohenriferreira/main/banner.png" alt="Banner de Programação" width="100%">
+  <img src="https://raw.githubusercontent.com/pedrohenriferreira/pedrohenriferreira/main/banner.webp" alt="Banner de Programação" width="100%">
 </p>
 
 <h1 align="center">👋 Olá, eu sou Pedro Henrique Ferreira!</h1>
