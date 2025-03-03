@@ -11,8 +11,6 @@
 
 💡 Meu objetivo é me tornar uma referência no mercado de tecnologia e contribuir para soluções inovadoras.  
 
-🏋️ Além da programação, gosto de desafios físicos e pratico musculação regularmente!  
-
 🌍 **Fluente em inglês**  
 
 ---
