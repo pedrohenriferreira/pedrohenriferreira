@@ -29,7 +29,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pedrohenriferreira/pedrohenriferreira/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pedrohenriferreira/pedrohenriferreira/snake.yml" alt="Snake animation" />
 
 ###
 
