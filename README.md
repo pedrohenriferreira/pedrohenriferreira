@@ -1,17 +1,13 @@
 <h1 align="center">👋 Olá, eu sou Pedro Henrique Ferreira!</h1>
 
 <p align="center">
-  🚀 Estudante de Sistemas de Informação | 💻 Aspirante a Desenvolvedor | 🎯 Buscando Estágio
+  🚀 Sistemas de Informação | 💻 Desenvolvedor Full-Stack | 🎯 Buscando Estágio
 </p>
 
 ---
 
 ## 🔥 Sobre mim  
-🖥️ Sou estudante de **Sistemas de Informação** na **Universidade Presbiteriana Mackenzie**, atualmente no 4º semestre. Busco sempre aprender novas tecnologias e desenvolver projetos práticos para consolidar meu conhecimento.  
-
-💡 Meu objetivo é me tornar uma referência no mercado de tecnologia e contribuir para soluções inovadoras.  
-
-🌍 **Fluente em inglês** 
+🖥️ Sou estudante de **Sistemas de Informação** na **Universidade Presbiteriana Mackenzie**. Busco sempre aprender novas tecnologias e desenvolver projetos práticos para consolidar meu conhecimento.  
 
 📬 E-mail: **asp.pedroferreira@gmail.com**
 
